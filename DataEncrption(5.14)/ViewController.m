@@ -24,6 +24,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"awdawdawdawd");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //MD5加密字符串
