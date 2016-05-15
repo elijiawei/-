@@ -26,6 +26,7 @@
 - (void)viewDidLoad {
     NSLog(@"awdawdawdawd");
     NSLog(@"awdasdwwwwaaaaaa");
+    NSLog(@"jintianchishenme");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //MD5加密字符串
